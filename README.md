@@ -1,0 +1,2 @@
+# CoreJavaProject
+Java Practice Examples
